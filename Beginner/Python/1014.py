@@ -5,3 +5,20 @@ consumo = x/y
 
 print('{:.3f} km/l'.format(consumo))
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KappaPride
