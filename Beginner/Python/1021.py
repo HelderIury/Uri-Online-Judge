@@ -19,10 +19,6 @@ dezcent = int(decimal_int%100%50%25/10)
 cincent = int(decimal_int%100%50%25%10/5)
 umcent = int(decimal_int%100%50%25%10%5)
 
-
-
-
-
 print('NOTAS:')
 
 print('{} nota(s) de R$ 100.00'.format(cem))
