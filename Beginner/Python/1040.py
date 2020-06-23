@@ -27,3 +27,6 @@ elif (5.0<=media<=6.9):
 
 elif (media<5.0):
     print('Aluno reprovado.')
+
+#Kappacete
+
